@@ -1,0 +1,3 @@
+[submodule "plugins/redmine_open_links_in_new_window"]
+	path = plugins/redmine_open_links_in_new_window
+	url = https://github.com/alexasahis/redmine_open_links_in_new_window.git
